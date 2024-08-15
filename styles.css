@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    background-image: url(../image/thumbnail.jpg);
+    background-image: url(image/thumbnail.jpg);
     background-size: cover;
     animation: slideIn 120s forwards infinite alternate;
 }
