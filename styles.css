@@ -59,7 +59,7 @@ section {
     font-size: 2rem;
     color: white;
     background: linear-gradient(to right, #f59e0b, #ef4444);
-    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     font-weight: 700;
 }
@@ -133,7 +133,7 @@ h3 {
 
 .left span {
     background: linear-gradient(to right, #8b5cf6, #ec5899);
-    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
 }
 
